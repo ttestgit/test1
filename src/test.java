@@ -6,5 +6,6 @@ public class test {
         String str = "123123,123";
         double d = Double.parseDouble(str);
         Scanner scn = new Scanner(System.in);
+        System.out.println("asdasdwe");
     }
 }
