@@ -1,9 +1,10 @@
-import static java.lang.System.out;
+import java.util.Scanner;
 
 public class test {
     public static void main(String[] args) throws  Exception
     {
-        out.println("жопа 3000");
-        out.println("жопа 3000");
+        String str = "123123,123";
+        double d = Double.parseDouble(str);
+        Scanner scn = new Scanner(System.in);
     }
 }
